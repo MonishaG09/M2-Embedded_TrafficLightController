@@ -1,7 +1,6 @@
 # M2-Embedded_TrafficLightController
 M2-Embedded_TraficLightController
 
-
 ## Folder Structure
 |Folder             | Description |
 |-------------------| -----------------------------------------|
