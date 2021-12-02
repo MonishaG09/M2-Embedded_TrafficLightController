@@ -45,3 +45,5 @@ The whole system is controlled by Atmega328 & atmega8 microcontroller. The desig
 | LLR1 | The input is visualized using colour of LED glow.| Implemented 
 | LLR2 | The traffic system runs effectively on linux but it will also run equally well on other.  | Implemented
 | LLR3 | The corresponding LED glows based on the traffic density.| Implemented 
+
+
