@@ -45,6 +45,20 @@ The whole system is controlled by Atmega328 & atmega8 microcontroller. The desig
 | LLR1 | The input is visualized using colour of LED glow.| Implemented 
 | LLR2 | The traffic system runs effectively on linux but it will also run equally well on other.  | Implemented
 | LLR3 | The corresponding LED glows based on the traffic density.| Implemented 
+# TEST PLAN
+## High Level Test plan
+| ID    | Description                             | Expected O/P | Actual O/P | Type of Test |
+|-------|-----------------------------------------| ------------ | ---------- | ------------ |
+| H_01  |Traffic signal                   |PASSED        |SUCCESS     | Requirement  |
+| H_01  |RYG Led glow                      |PASSED        |SUCCESS     | Scenario     |
+| H_03  | blinking led             |PASSED        |SUCCESS     | Boundary     |
+
+## Low Level Test Plan
+| ID    | Description           | Expected O/P | Actual O/P | Type of Test | 
+|-------|-----------------------| ------------ | -----------| ------------ |
+| L_01  |Open the traffic road         | PASSED       |SUCESS      | Requirement  |
+| L_02  |View the signal | PASSED       |SUCESS      | Scenario     |
+| L_03  |waiting possible vehicle     | PASSED       |SUCCESS     | Boundary     |
 
 ## Output
 ![Image 1](https://user-images.githubusercontent.com/94268410/144395120-d14580ec-b9d1-4bac-a0a6-c261282a1526.png)
