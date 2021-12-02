@@ -60,6 +60,9 @@ The whole system is controlled by Atmega328 & atmega8 microcontroller. The desig
 | L_02  |View the signal | PASSED       |SUCESS      | Scenario     |
 | L_03  |waiting possible vehicle     | PASSED       |SUCCESS     | Boundary     |
 
+# Behavioural Diagram
+![Traffic control](https://user-images.githubusercontent.com/94268410/144429965-adfcd133-9268-4fb2-b57a-24d1f7730935.png)
+
 ## Output
 ![Image 1](https://user-images.githubusercontent.com/94268410/144395120-d14580ec-b9d1-4bac-a0a6-c261282a1526.png)
 
