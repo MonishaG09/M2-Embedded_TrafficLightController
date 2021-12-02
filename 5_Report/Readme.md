@@ -47,7 +47,6 @@ The whole system is controlled by Atmega328 & atmega8 microcontroller. The desig
 | LLR3 | The corresponding LED glows based on the traffic density.| Implemented 
 # Behavioural Diagram
 ![Traffic control](https://user-images.githubusercontent.com/94268410/144429965-adfcd133-9268-4fb2-b57a-24d1f7730935.png)
-# TEST PLAN
 ## High Level Test plan
 | ID    | Description                             | Expected O/P | Actual O/P | Type of Test |
 |-------|-----------------------------------------| ------------ | ---------- | ------------ |
