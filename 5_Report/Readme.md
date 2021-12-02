@@ -11,18 +11,18 @@ simple, low-cost, and real time traffic signal system that aims to overcome many
 Traffic signal mainly used for controlling the vehicles and help to reduce the accidents between vehicles. The traffic congestion problems are increasing day by day because of the increasing number of vehicles with limited infrastructure. Under this situation, the existing traffic light systems which are timer based are not able to control traffic. To solve this problem, a real time traffic control system is needed which will control the traffic signal according to traffic density.
 ## SWOT Analysis
 **Strength:**
-- The advantage of  traffic light contoller is that to avoid more accidents and vehicle congestion.
+-   The advantage of  traffic light contoller is that to avoid more accidents and vehicle congestion.
 
 **Weakness:**
-- If you do not follow the traffic rules , this can lead to a occur some accident.
-- if you waiting the car in traffic,the vehicle is not turned off 
-- you can not wait more time in traffic because of some urgent work.
+-  If you do not follow the traffic rules , this can lead to a occur some accident.
+-   if you waiting the car in traffic,the vehicle is not turned off 
+-   you can not wait more time in traffic because of some urgent work.
 
 **Opportunities:**
-- The advanced technologies in automotive and intelligence traffic light controller are predicted to increase the growth of the market in the review period.Growing demand for comfort and energy capabilities in vehicles is accelerating market growth.
+-   The advanced technologies in automotive and intelligence traffic light controller are predicted to increase the growth of the market in the review period.Growing demand for comfort and energy capabilities in vehicles is accelerating market growth.
 
 **Threats:**
-- More number of vehicles are waiting in three side roads .
+-   More number of vehicles are waiting in three side roads .
 ## What
 A real time traffic control system is needed which will control the traffic signal according to traffic density.
 ## When
